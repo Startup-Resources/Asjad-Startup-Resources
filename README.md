@@ -1,5 +1,11 @@
 # Startup Resources
 
+### My Notes: 
+
+
+**Misc:**
+- [A Technologist's Guide to Startups:](https://www.dropbox.com/s/yc8r3k8ozh3rn5d/5__A_technologist_s_Guide_to_startups_and_Business.pdf?dl=0)
+
 
 ### YC
 
